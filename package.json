@@ -1,0 +1,24 @@
+{
+  "name": "task-manager-using-node-mongodb",
+  "version": "1.0.0",
+  "description": "Task Manager using nodejs and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashank1987/task-manager-using-node-mongodb.git"
+  },
+  "author": "Shashank Naik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashank1987/task-manager-using-node-mongodb/issues"
+  },
+  "homepage": "https://github.com/shashank1987/task-manager-using-node-mongodb#readme",
+  "dependencies": {
+    "mongodb": "^3.2.5",
+    "mongoose": "^5.5.9",
+    "nodemon": "^1.19.0"
+  }
+}
